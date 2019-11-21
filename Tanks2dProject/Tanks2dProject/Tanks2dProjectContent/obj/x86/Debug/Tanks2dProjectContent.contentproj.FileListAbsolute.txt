@@ -1,0 +1,4 @@
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProjectContent\obj\x86\Debug\Tanks2dProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProjectContent\obj\x86\Debug\Tanks2dProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProjectContent\obj\x86\Debug\Tanks2dProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProjectContent\obj\x86\Debug\Tanks2dProjectContent.contentprojResolveAssemblyReference.cache

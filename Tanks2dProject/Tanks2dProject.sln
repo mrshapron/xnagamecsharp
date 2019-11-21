@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks2dProject", "Tanks2dProject\Tanks2dProject\Tanks2dProject.csproj", "{6C48E6C5-3F8D-49C4-ACA2-22243532055A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Tanks2dProjectContent", "Tanks2dProject\Tanks2dProjectContent\Tanks2dProjectContent.contentproj", "{A8FED1C6-3B2F-4471-AC3D-04021441474F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C48E6C5-3F8D-49C4-ACA2-22243532055A}.Debug|x86.ActiveCfg = Debug|x86
+		{6C48E6C5-3F8D-49C4-ACA2-22243532055A}.Debug|x86.Build.0 = Debug|x86
+		{6C48E6C5-3F8D-49C4-ACA2-22243532055A}.Release|x86.ActiveCfg = Release|x86
+		{6C48E6C5-3F8D-49C4-ACA2-22243532055A}.Release|x86.Build.0 = Release|x86
+		{A8FED1C6-3B2F-4471-AC3D-04021441474F}.Debug|x86.ActiveCfg = Debug|x86
+		{A8FED1C6-3B2F-4471-AC3D-04021441474F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

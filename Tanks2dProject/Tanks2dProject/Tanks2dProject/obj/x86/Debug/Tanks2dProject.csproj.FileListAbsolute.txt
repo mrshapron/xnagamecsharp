@@ -1,0 +1,102 @@
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Tanks2dProject.exe
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Tanks2dProject.pdb
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.csprojResolveAssemblyReference.cache
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.exe
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.pdb
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\Tank.xnb
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\GunTurret.xnb
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\Bullet.xnb
+c:\users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\real grass.xnb
+C:\Users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\map1.xnb
+C:\Users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\brake.xnb
+C:\Users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\TurretAiMini.xnb
+C:\Users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\bulletTurret.xnb
+C:\Users\שרון פייס\documents\visual studio 2015\Projects\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\maps22.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\Tank.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\GunTurret.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\real grass.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\brake.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\map1.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\TurretAiMini.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\bulletTurret.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\maps22.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Tanks2dProject.exe
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Tanks2dProject.pdb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.csprojResolveAssemblyReference.cache
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.exe
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.pdb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\SAOHealth.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\startButton.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\MainManu.xnb
+C:\Users\Sharon\Desktop\XNA PROJECT\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\gameover.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\Tank.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\GunTurret.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\real grass.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\brake.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\map1.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\TurretAiMini.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\bulletTurret.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\maps22.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\SAOHealth.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\startButton.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\MainManu.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\gameover.xnb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Tanks2dProject.exe
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Tanks2dProject.pdb
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.csprojResolveAssemblyReference.cache
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.exe
+C:\Users\שרון פייס\Desktop\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.pdb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\Tank.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\GunTurret.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\Bullet.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\real grass.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\brake.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\map1.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\TurretAiMini.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\bulletTurret.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\maps22.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\SAOHealth.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\startButton.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\MainManu.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Content\gameover.xnb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Tanks2dProject.exe
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Tanks2dProject.pdb
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.csprojResolveAssemblyReference.cache
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.exe
+C:\Users\שרון פייס\Desktop\STUFF\XNA game\Tanks2dProject\Tanks2dProject\Tanks2dProject\obj\x86\Debug\Tanks2dProject.pdb
